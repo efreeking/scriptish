@@ -2,30 +2,30 @@
 
 [![Gitter chat](https://badges.gitter.im/scriptish/scriptish.png)](https://gitter.im/scriptish/scriptish)
 
-## About
+## 关于
 
-Scriptish is a userscript manager for Firefox, forked from Greasemonkey.
+Scriptish 是一个 Firefox 的用户脚本管理器，从 Greasemonkey 分支出来的。
 
-## Browsers Supported
+## 支持的浏览器
 
 * Firefox 21+
 * Seamonkey 2.8+
 
 
-## Download
+## 下载
 
 * [Addons.Mozilla.Org (AMO)](https://addons.mozilla.org/firefox/addon/scriptish)
-* [Source Code](https://github.com/scriptish/scriptish)
+* [源代码](https://github.com/scriptish/scriptish)
 
-## Help
+## 帮助
 
-* [Wiki](https://github.com/scriptish/scriptish/wiki)
+* [维基](https://github.com/scriptish/scriptish/wiki)
 * [Issues](https://github.com/scriptish/scriptish/issues)
-* [Blog](http://scriptish.org/blog)
+* [博客](http://scriptish.org/blog)
 * irc.mozilla.org #userscripts (for UserScript development help)
 * irc.mozilla.org #scriptish (for Scriptish development)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/userscripts)
 
-## UserScripts
+## 用户脚本
 
 * [Userscripts](http://userscripts.org)
