@@ -19,7 +19,7 @@ Scriptish 是一个 Firefox 的用户脚本管理器，从 Greasemonkey 分支�
 
 ## 帮助
 
-* [维基](https://github.com/scriptish/scriptish/wiki)
+* [维基](https://github.com/efreeking/scriptish/wiki)
 * [Issues](https://github.com/scriptish/scriptish/issues)
 * [博客](http://scriptish.org/blog)
 * irc.mozilla.org #userscripts (for UserScript development help)
